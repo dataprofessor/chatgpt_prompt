@@ -1,5 +1,5 @@
 # chatgpt_prompt
 
-|Category|Task|Prompt|
-|---|---|---|
-|Write|Poem|Write a poem about [topic]
+|Category|Task|Prompt|Example|
+|---|---|---|---|
+|Write|Poem|Write a poem about [topic]|Write a poem about the beauty of nature|
